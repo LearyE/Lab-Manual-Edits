@@ -25,6 +25,8 @@ Leary Ortho Biostats Lab Manual
 
 * [General](#General)
 
+* [COVID-19 Policy](#COVID-19-Policy)
+
 * [Confidentiality Policy](#Confidentiality-Policy)
 
 * [Data Security](#Data-Security)
@@ -170,6 +172,9 @@ Undergraduate research assistants play an important role in our lab, and we have
 # Code of conduct
 ## General
 Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
+
+## COVID-19 Policy
+Many meetings will be moved online (see Meetings) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Sanitize all equipment after use and remain courteous of personal space. 
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 

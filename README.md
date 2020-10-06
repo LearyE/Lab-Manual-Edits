@@ -47,7 +47,7 @@ Leary Ortho Biostats Lab Manual
 
 * [OneNote](#OneNote)
 
-* [Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
+* [Project Management using OneDrive](#Project-Management-using-OneDrive)
 
 [General policies](#general-policies)
 
@@ -288,11 +288,11 @@ Outlook Calendar is within Outlook. It can help to arrange and manage meetings a
 ## OneNote
 OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.).
 
-## Project Management using Box and Box Sync
-Dr. Leary will assign each lab member a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
+## Project Management using OneDrive
+Dr. Leary will assign each lab member an OneDrive folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
 
-### Box Sync
-Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" on your computer. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. You must set this up for every computer for which you want to use Box Sync. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account when you are connected to the internet. To install Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
+### OneDrive
+OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # General policies

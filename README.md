@@ -305,11 +305,11 @@ OneDrive is a tool that allows you to sync data stored on Microsoft Office to yo
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized to have other demands on your time like classes and TA-ing but we still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
 
 ### Office hours
-Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send her an email if you cannot find her.
+Dr. Leary is generally in office (room 4216-lab office is room 4218) from 8 a.m. to 5 p.m. on weekdays. She is currently working remotely, but is still available in the given time frame. You can send her an email if you cannot find her.
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place at the Missouri Orthopaedic Institute weekly in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 

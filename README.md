@@ -340,7 +340,7 @@ In general, data will be stored in one of four places:
 ### Data organization
 The projects will have the following folders in each project folder for consistent project management (Data, Program, Output, Reports). 
 
-*	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary. Aim to be consistent with the way data is organized between documents to allow for an easier transition into R. 
 *	Programs – put all R code here or any other code. You must save your R code each time you revise it - please use a date in your file name (YYYYMMDD). You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
 *	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. Date your files using the filename.
 *	Reports – put all report drafts here as well as any other reporting documents or data. Date your files in the filename.
@@ -421,7 +421,7 @@ Conflicts with the Hospital dress code or departmental standards arising from st
 
  
 ## Zoom Etiquette
-Show up to Zoom meetings ready to speak and with your camera on. Act with the same protocol in person meetings have and follow MOI dress codes. Make sure to still update your slide on Box with pertinent information prior to the weekly lab meetings.
+Show up to Zoom meetings ready to speak and, if possible, with your camera on. Act with the same protocol in person meetings have and follow MOI dress codes. Make sure to still update your slide on Box with pertinent information prior to the weekly lab meetings.
  
 ## Training
 
@@ -451,6 +451,14 @@ When you complete these trainings, save your completion certificates as .pdf fil
     *All personnel will need to fill out and sign the data use agreement and **send it to Dr. Leary**. It is located [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf).  
 
 * DUA for NSQIP: [here](https://www.facs.org/-/media/files/quality-programs/nsqip/datauseagreementacsnsqippuf.ashx?la=en). 
+
+3. Swirl R Coding Training 
+
+* Coding using R is utilized heavily in the lab's data analysis. Learning the fundamentals of this coding software can aid current and future research. 
+
+* Link to Swirl: [here](https://swirlstats.com/students.html). If you need help installing and getting started, follow the steps listed on the website. 
+
+* Link to Swirl Repository: [here](https://github.com/swirldev/swirl_courses#swirl-courses). This will give you the instructions to download the interactive courses that will teach you the fundamentals of R. 
 
 ## File Formatting
 

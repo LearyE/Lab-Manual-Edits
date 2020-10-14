@@ -25,6 +25,8 @@ Leary Ortho Biostats Lab Manual
 
 * [General](#General)
 
+* [COVID-19 Policy](#COVID-19-Policy)
+
 * [Confidentiality Policy](#Confidentiality-Policy)
 
 * [Data Security](#Data-Security)
@@ -47,7 +49,7 @@ Leary Ortho Biostats Lab Manual
 
 * [OneNote](#OneNote)
 
-* [Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
+* [Project Management using OneDrive](#Project-Management-using-OneDrive)
 
 [General policies](#general-policies)
 
@@ -72,6 +74,8 @@ Leary Ortho Biostats Lab Manual
 [Appendix](#Appendix)
 
 * [MOI dress code](#MOI-dress-code)
+
+* [Zoom Etiquette](#Zoom-Etiquette)
 
 * [Training](#Training)
 
@@ -170,6 +174,9 @@ Undergraduate research assistants play an important role in our lab, and we have
 # Code of conduct
 ## General
 Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
+
+## COVID-19 Policy
+Many meetings will be moved online (see Meetings) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Sanitize all equipment after use and remain courteous of personal space. 
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
@@ -288,11 +295,11 @@ Outlook Calendar is within Outlook. It can help to arrange and manage meetings a
 ## OneNote
 OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.).
 
-## Project Management using Box and Box Sync
-Dr. Leary will assign each lab member a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
+## Project Management using OneDrive
+Dr. Leary will assign each lab member an OneDrive folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
 
-### Box Sync
-Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" on your computer. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. You must set this up for every computer for which you want to use Box Sync. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account when you are connected to the internet. To install Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
+### OneDrive
+OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # General policies
@@ -300,11 +307,11 @@ Box Sync is a tool that allows you to mirror data stored on Box to your desktop.
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized to have other demands on your time like classes and TA-ing but we still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
 
 ### Office hours
-Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send her an email if you cannot find her.
+Dr. Leary is generally in office (MOI room 4216) from 8 a.m. to 5 p.m. on weekdays. She is currently working remotely, but is still available in the given time frame. You can send her an email if you cannot find her. The lab office is room 4218 at Missouri Orthopaedic Institute.
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place at the Missouri Orthopaedic Institute weekly in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
@@ -333,7 +340,7 @@ In general, data will be stored in one of four places:
 ### Data organization
 The projects will have the following folders in each project folder for consistent project management (Data, Program, Output, Reports). 
 
-*	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary. Aim to be consistent with the way data is organized between documents to allow for an easier transition into R. 
 *	Programs – put all R code here or any other code. You must save your R code each time you revise it - please use a date in your file name (YYYYMMDD). You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
 *	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. Date your files using the filename.
 *	Reports – put all report drafts here as well as any other reporting documents or data. Date your files in the filename.
@@ -413,6 +420,9 @@ Department managers may establish departmental standards as appropriate and moni
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
  
+## Zoom Etiquette
+Show up to Zoom meetings ready to speak and, if possible, with your camera on. Act with the same protocol in person meetings have and follow MOI dress codes. Make sure to still update your slide on Box with pertinent information prior to the weekly lab meetings.
+ 
 ## Training
 
 1. Training for IRB Approval:
@@ -441,6 +451,14 @@ When you complete these trainings, save your completion certificates as .pdf fil
     *All personnel will need to fill out and sign the data use agreement and **send it to Dr. Leary**. It is located [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf).  
 
 * DUA for NSQIP: [here](https://www.facs.org/-/media/files/quality-programs/nsqip/datauseagreementacsnsqippuf.ashx?la=en). 
+
+3. Swirl R Coding Training 
+
+* Coding using R is utilized heavily in the lab's data analysis. Learning the fundamentals of this coding software can aid current and future research. 
+
+* Link to Swirl: [here](https://swirlstats.com/students.html). If you need help installing and getting started, follow the steps listed on the website. 
+
+* Link to Swirl Repository: [here](https://github.com/swirldev/swirl_courses#swirl-courses). This will give you the instructions to download the interactive courses that will teach you the fundamentals of R. 
 
 ## File Formatting
 

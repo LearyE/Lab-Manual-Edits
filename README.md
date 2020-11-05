@@ -107,7 +107,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson (clawsons@health.missouri.edu) and Gigi Harrison (harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- Notify Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson (clawsons@health.missouri.edu) and Gigi Harrison (harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
@@ -223,7 +223,7 @@ Upon your involvement in research at the Department of Orthopaedic Surgery, you 
 ### Expectations
 This notebook:
 *	should be labeled with your name and contact information,
-*	should be brought to every meeting with Dr. Leary/Ms. Kyeong,
+*	should be brought to every meeting with Dr. Leary,
 *	should be legible and kept in good condition,
 *	should contain notes from meetings and a detailed account of the statistical analyses you perform,
 *	should be organized and detailed enough for someone else to read and understand what you did,
@@ -237,7 +237,7 @@ All notebook holders should consider the sensitivity of the information that mig
 ## Schedule Notification
 For all lab members, your particular work of the previous week and work schedule for the following week will be discussed and assigned during the weekly meeting. 
 
-The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, reasonable notification needs to be made to Dr. Leary and Ms. Kyeong. For students, schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours.
+The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, reasonable notification needs to be made to Dr. Leary. For students, schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours.
 
 
 **In addition:**
@@ -309,7 +309,7 @@ Dr. Leary is generally in office (MOI room 4216) from 8 a.m. to 5 p.m. on weekda
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
@@ -529,7 +529,7 @@ Here is the procedure for reporting your weekly hours:
 </p>
 
 
-* Step 9. After finishing all the above, go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
+* Step 9. After finishing all the above, go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
 ## Datasets available in lab

@@ -449,6 +449,12 @@ When you complete these trainings, save your completion certificates as .pdf fil
 
 * DUA for NSQIP: [here](https://www.facs.org/-/media/files/quality-programs/nsqip/datauseagreementacsnsqippuf.ashx?la=en). 
 
+3. Swirl R Coding (Optional)
+
+* Coding using R is utilized heavily in the lab's data analysis. Learning the fundamentals of this coding software can aid current and future research.
+* Link to Swirl: [here](https://swirlstats.com/students.html). If you need help installing and getting started, follow the steps listed on the website.
+* Link to Swirl Repository: [here](https://github.com/swirldev/swirl_courses#swirl-courses). This will give you the instructions to download the interactive courses that will teach you the fundamentals of R.
+
 ## File Formatting
 
 *	All Word Files must be changed to the English language and all reports must be spell-checked (in English!). 

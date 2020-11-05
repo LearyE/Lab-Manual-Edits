@@ -452,8 +452,18 @@ When you complete these trainings, save your completion certificates as .pdf fil
 3. Swirl R Coding (Optional)
 
 * Coding using R is utilized heavily in the lab's data analysis. Learning the fundamentals of this coding software can aid current and future research.
+
+<p align="center">
+<img src="Swirl R.jpg" width="600">
+</p>
+
 * Link to Swirl: [here](https://swirlstats.com/students.html). If you need help installing and getting started, follow the steps listed on the website.
+
 * Link to Swirl Repository: [here](https://github.com/swirldev/swirl_courses#swirl-courses). This will give you the instructions to download the interactive courses that will teach you the fundamentals of R.
+
+<p align="center">
+<img src="Swirl R repository.jpg" width="600">
+</p>
 
 ## File Formatting
 

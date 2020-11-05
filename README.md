@@ -1,4 +1,3 @@
-# Lab-Manual-Edits
 Leary Ortho Biostats Lab Manual
 =============================
 ## Table of Contents

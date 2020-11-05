@@ -74,6 +74,8 @@ Leary Ortho Biostats Lab Manual
 
 * [MOI dress code](#MOI-dress-code)
 
+* [Zoom Etiquette](#Zoom-Etiquette)
+
 * [Training](#Training)
 
 * [File Formatting](#File-Formatting)
@@ -415,6 +417,8 @@ Department managers may establish departmental standards as appropriate and moni
 
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
+## Zoom Etiquette
+Show up to Zoom meetings ready to speak and, if possible, with your camera on. Act with the same protocol in person meetings have and follow MOI dress codes. Make sure to still update your slide on Box with pertinent information prior to the weekly lab meetings.
  
 ## Training
 

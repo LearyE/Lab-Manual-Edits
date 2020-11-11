@@ -256,7 +256,7 @@ We expect members to follow these guidelines at any lab-related event or activit
 
 ## Scientific integrity
 ### Reproducible research
-Reproducible research is research that can be exactly reproduced given the *same* raw data. It is an *essential* part of science, and an expectation for all projects in the lab. Reproducibility is related to replicability, which refers to whether your results can be obtained again with a *different* data set. We expect that all of our research will be replicable, or, at least reproducible.
+Reproducible research is research that can be exactly reproduced given the *same* raw data. It is an *essential* part of science, and an expectation for all projects in the lab. Reproducibility is related to replicability, which refers to whether your results can be obtained again with a *different* data set. We expect that all of our research will be replicable, or at least reproducible.
 
 For results to be reproducible, it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research:
 - Extensive notetaking. You will need extensive notes on each step of your analysis pipeline, explaining how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Your code should also be commented clearly so that every step is understandable by an outsider. 

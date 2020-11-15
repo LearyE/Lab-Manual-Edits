@@ -198,7 +198,7 @@ The HIPAA Privacy Rule protects all "individually identifiable health informatio
 * the past, present, or future payment for the provision of health care to the individual,
 and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, zipcode, Social Security Number). 
 
-Dr. Leary will generally send you the data without identifiable health information. All work, and particularly data, should be stored on Box as it is compliant with DSL 4, HIPAA, and HITECH guidelines. Box accounts must be configured to comply with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys' IRB.
+Dr. Leary will generally send you the data without identifiable health information. All work, and particularly data, should be stored on Box or the Ortho Biostats server space (Z drive) as it is compliant with DSL 4, HIPAA, and HITECH guidelines. Box accounts must be configured to comply with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys' IRB.
 
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
@@ -218,7 +218,7 @@ Protecting confidential information is a priority within our health care system:
 
 
 ## Lab Notebook Policy
-Upon your involvement in research at the Department of Orthopaedic Surgery, you will be provided a notebook to aid in your work. Research or lab notebooks are an essential part of doing scientific research. The purpose of this notebook is to have an organized location for you to record and store notes and protocols about the research projects you are involved in through the department. This will help you to keep track of your work and allow you and others to review the steps taken during your analyses.
+Upon your involvement in research at the Department of Orthopaedic Surgery, you will be provided a notebook to aid in your work. Research or "lab notebooks" are an essential part of doing scientific research. The purpose of this notebook is to have an organized location for you to record and store notes and protocols about the research projects you are involved in through the department. This will help you to keep track of your work and allow you and others to review the steps taken during your analyses.
 
 ### Expectations
 This notebook:
@@ -260,7 +260,7 @@ Reproducible research is research that can be exactly reproduced given the *same
 
 For results to be reproducible, it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research:
 - Extensive notetaking. You will need extensive notes on each step of your analysis pipeline, explaining how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Your code should also be commented clearly so that every step is understandable by an outsider. 
-- Programming workflows with version control. It is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others.
+- Programming workflows with version control. It is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub or file naming conventions for code saved to Box or other storage locations) to keep track of what code changes you made and when you made them, as well as sharing code with others.
 
 ### Authorship
 We will follow NIH guidelines with respect to authorship
@@ -270,7 +270,7 @@ We will follow NIH guidelines with respect to authorship
 Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, graduate students and postdocs will be first authors on publications on which they are the primary lead, and Dr. Leary will be the last author.
 
 #### Old projects
-If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished but is meant to give priority to the person initially led the project.
+If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished but is meant to give priority to the person who initially led the project.
 ## Human subjects research
 Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at identifiable data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
 
@@ -292,12 +292,12 @@ Tasks can be assigned via Outlook (email) through OneNote, so all members are ex
 Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. Please keep your Outlook Calendar connected and up to date.
 
 ## OneNote
-OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.).
+OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. Relevant notes from the lab meeting or tasks will be posted on OneNote and sent through Outlook. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.) and using email.
 
-## Project Management using OneDrive
-Dr. Leary will assign each lab member a OneDrive folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
+## Project Management using Ortho Biostats Drive
+Dr. Leary will assign each lab member an Ortho Biostats drive (Z drive) folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service. If system lags make this impossible, all material must be moved to the Ortho Biostats drive each week. Box can also be used instead. This issue should be temporary (as of Nov 2020) but it is important that best practices be followed as closely as possible, while also not hindering working abilities. 
 ### OneDrive
-OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder.
+OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder. Currently (Nov 2020), OneDrive is not approved for patient data. This tool will likely be approved in the future. However, it is currently available for non-PHI data and related storage needs.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # General policies
@@ -305,11 +305,11 @@ OneDrive is a tool that allows you to sync data stored on Microsoft Office to yo
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized to have other demands on your time like classes and TA-ing but we still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
 
 ### Office hours
-Dr. Leary is generally in office (MOI room 4216) from 8 a.m. to 5 p.m. on weekdays. She is currently working remotely, but is still available in the given time frame. You can send her an email if you cannot find her. The lab office is room 4218 at Missouri Orthopaedic Institute.
+Dr. Leary is generally in her office (MOI room 4216) from 8 a.m. to 5 p.m. on weekdays. Due to COVID-19, she is mainly working remotely, but is still available in the given time frame. You can send her an email if you cannot find her. The lab office is room 4218 at Missouri Orthopaedic Institute.
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes must be updated and maintained by each lab member. This is located in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
@@ -332,8 +332,7 @@ To request a letter of recommendation, please adhere to the deadline requirement
 ### Storing active datasets (need to complete)
 In general, data will be stored in one of four places:
 - Your assigned box folder
-- Dr. Leary's Research folder
-- T drive (TLRO server)
+- Ortho Biostats Drive (Z drive)
 - H drive (Ortho server)
 
 ### Data organization
@@ -355,10 +354,10 @@ All data must be checked for validity, reasonability, and formatting. Sometimes 
 All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
 
 ### Archiving inactive datasets
-Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your Box folders, and make sure annotated codes are included and will run data (e.g. produce the final data). 
+Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your Box folder (or OneDrive or Ortho Biostats Drive), and make sure annotated codes are included and will run data (e.g. produce the final data). 
 
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with a complete data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Funding
@@ -368,14 +367,13 @@ Dr. Leary will oversee all aspects of the financial management of lab funding so
 * MOI/TLRO: These funds are flexible in that they can be used for any justifiable purpose.
 * NIH: NIH funds are restricted to these projects only.
 * DoD: Department of Defense (DoD) funds are restricted to these projects only. 
-* RDC-US Census Bureau: These funds are available for the NHIS and MEPS projects (and associated costs) only.
-* Richard Wallace Faculty Incentive Grant: These funds are for undergraduate research and for the OCA ankle & hip projects only. 
+* SOM or Internal funds: these funds are restricted to these projects only.
 * Other funds: Sometimes the lab receives small amounts of unrestricted funds from the
 university; these can be spent in the same way as MOI/TLRO funds.
 
 ## Funding notes
 All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
-Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
+Research funded by other grants (e.g., SOM funding) must also acknowledge the source of funding and provide a statement which whatever other funding source provides.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Appendix
@@ -415,7 +413,7 @@ Department managers may establish departmental standards as appropriate and moni
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
 ## Zoom Etiquette
-Show up to Zoom meetings ready to speak and, if possible, with your camera on. Act with the same protocol in person meetings have and follow MOI dress codes. Make sure to still update your slide on Box with pertinent information prior to the weekly lab meetings.
+Show up to Zoom meetings ready to speak and, if possible, with your camera on (required for lab meetings.) Act with the same protocol in person meetings have and follow MOI dress codes (more casual can be ok.) Prior to [weekly lab meetings](#Weekly-lab-meetings), please update your slide on Box with work done throughout the past week and come prepared with possible questions and comments. 
  
 ## Training
 
@@ -489,7 +487,7 @@ Here is the procedure for reporting your weekly hours:
 </p>
 
 
-* Step 3. Fill out all details for your record. The "Date Worked" should be in the format "yyyymmdd". Select your name for "Name" and choose the name which describes your project for "Project". Enter your hours and type of the work. In the Memo section, you need to provide details about the work you have done for this project. Click "Save & Exit Form" when you finish. Here is an example. You can always go to Step 1 to add a new record. 
+* Step 3. Fill out all details for your record. The "Date Worked" should be in the format "yyyymmdd". Select your name for "Name" and choose the name which describes your project for "Project". If the correct project is not available, please contact the lab manager and cc Dr. Leary. It is important for project tracking and hr that time is appropriately assigned to the correct project. Enter your hours and type of the work. In the Memo section, you need to provide details about the work you have done for this project. Click "Save & Exit Form" when you finish. Here is an example. You can always go to Step 1 to add a new record. 
 
 <p align="center">
 <img src="REDCap_Procedure/Step10.PNG" width="600">
